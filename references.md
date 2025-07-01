@@ -1,3 +1,4 @@
-# References
+This is an attempt for a conflict
+hello
 
-* octocat 1 😈
+hello
